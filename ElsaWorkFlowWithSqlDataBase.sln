@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElsaWorkFlowWithSqlDataBase", "ServerWithDashboard\ElsaWorkFlowWithSqlDataBase.csproj", "{34B3776E-E4BF-4653-86BD-2F2CFBB8DDCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElsaWorkFlowWithSqlDataBase", "ElsaWorkFlowWithSqlDataBase\ElsaWorkFlowWithSqlDataBase.csproj", "{666B0CBA-3B67-4F99-9579-E97EC285E96D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34B3776E-E4BF-4653-86BD-2F2CFBB8DDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34B3776E-E4BF-4653-86BD-2F2CFBB8DDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34B3776E-E4BF-4653-86BD-2F2CFBB8DDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34B3776E-E4BF-4653-86BD-2F2CFBB8DDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666B0CBA-3B67-4F99-9579-E97EC285E96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666B0CBA-3B67-4F99-9579-E97EC285E96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666B0CBA-3B67-4F99-9579-E97EC285E96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666B0CBA-3B67-4F99-9579-E97EC285E96D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
